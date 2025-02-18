@@ -1,0 +1,74 @@
+#ifndef _Array_Chinese_H
+#define _Array_Chinese_H
+
+extern const unsigned char gImage_1[93640];
+extern const unsigned char lin[];
+extern const unsigned char de[];
+extern const unsigned char fen[];
+extern const unsigned char tan_1[];
+extern const unsigned char chi[];
+extern const unsigned char she[];
+extern const unsigned char you[]  ;
+extern const unsigned char xi[]   ;
+extern const unsigned char jie[]  ;
+extern const unsigned char shao[] ;
+extern const unsigned char kong[] ;
+extern const unsigned char zhi[]  ;
+extern const unsigned char hong[] ;
+extern const unsigned char se[]   ;
+extern const unsigned char de_1[] ;
+extern const unsigned char shi[]  ;
+extern const unsigned char yong[] ;
+extern const unsigned char ping[] ;
+extern const unsigned char mu[]   ;
+extern const unsigned char xia[]  ;
+extern const unsigned char fang[] ;
+extern const unsigned char xiang[];
+extern const unsigned char jian[] ;
+extern const unsigned char jin[]  ;
+extern const unsigned char xing[] ;
+extern const unsigned char yi[]   ;
+extern const unsigned char dong[] ;
+extern const unsigned char jin_1[]  ;
+extern const unsigned char ke[]   ;
+extern const unsigned char neng[] ;
+extern const unsigned char chi[]  ;
+extern const unsigned char diao[] ;
+extern const unsigned char geng[] ;
+extern const unsigned char duo[]  ;
+extern const unsigned char lv[]   ;
+extern const unsigned char se[]   ;
+extern const unsigned char shi[]  ;
+extern const unsigned char wu[]   ;
+extern const unsigned char mei[]  ;
+extern const unsigned char yi_1[] ;
+extern const unsigned char ge[]   ;
+extern const unsigned char su[]   ;
+extern const unsigned char du[]   ;
+extern const unsigned char jiang[];
+extern const unsigned char ti[];
+extern const unsigned char sheng[];
+extern const unsigned char peng[] ;
+extern const unsigned char dao[]  ;
+extern const unsigned char qiang[];
+extern const unsigned char bi[]   ;
+extern const unsigned char huo[]  ;
+extern const unsigned char zi[]   ;
+extern const unsigned char shen[] ;
+extern const unsigned char jie_1[]  ;
+extern const unsigned char shu[]  ;
+extern const unsigned char an[]   ;
+extern const unsigned char yi_2[]   ;
+extern const unsigned char kai_1[]  ;
+extern const unsigned char shi_2[]  ;
+extern const unsigned char tan_2[];
+extern const unsigned char chi_2[];
+extern const unsigned char she_2[];
+extern const unsigned char shi_1[];
+extern const unsigned char hui[];
+extern const unsigned char bu[];
+extern const unsigned char chong[];
+extern const unsigned char wan[];
+#endif
+
+
