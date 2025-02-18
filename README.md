@@ -7,6 +7,7 @@ This project implements a Snake game on the STM32F103RCT6 using a 2.8-inch TFT s
 CSDN article: https://blog.csdn.net/foamz/article/details/145566223
 
 Key Features:
+
 External Interrupts: Four buttons are used with external interrupts.
 
 Timer-Controlled Updates: A timer controls the game updates.
